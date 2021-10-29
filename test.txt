@@ -2,7 +2,4 @@ TEST
 CHAT
 CHIEN
 LAPIN
-<<<<<<< refs/remotes/origin/develop
 COCHON
-=======
->>>>>>> lapin
