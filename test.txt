@@ -1,7 +1,5 @@
-es
-te
-tet1
-es2dffdsfssdfgdf
-testvdfg3
-tst
-es3
+TEST
+CHAT
+CHIEN
+LAPIN
+COCHON
