@@ -1,7 +1,3 @@
-es
-te
-tefdsffdst1
-es2sfdsdfgdf
-testvdfdsfg3
-tst
-es3
+TEST
+CHAT
+CHIEN
